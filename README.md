@@ -22,4 +22,4 @@ python
 
 ## Learn
 - Types 
-   - [Number](https://github.com/0732sta/starter-python/number.py)
+   - [Number](https://github.com/0732sta/starter-python/blob/master/number.py)
