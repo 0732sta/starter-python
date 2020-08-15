@@ -25,3 +25,6 @@
 ## 2. If Statemnt
 - Follow the [Steps](###Steps) 
 - but create and use the new python file ['if_elif.py'](https://github.com/0732sta/starter-python/blob/master/standard-input/if_elif.py)
+### For example :
+![ask-age](ask-age.png)
+![yes](y-n.png)
