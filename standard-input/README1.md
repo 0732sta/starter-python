@@ -12,4 +12,4 @@
   5. Play around with code by remove'#hash' inside the python file
   
 ## For example :
-[name and age](https://github.com/0732sta/starter-python/blob/master/images/circle.png)
+[name and age](circle.png)
