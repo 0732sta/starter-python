@@ -1,6 +1,7 @@
 # Python 3
 * [Source](##Source)
 * [Setup](##Setup)
+* [Learn](##Learn)
 
 ## Source
 Python tutorial by [@iamshaunjp](https://github.com/iamshaunjp)
@@ -18,3 +19,7 @@ python -V
 ```bash
 python
 ```
+
+## Learn
+- Types 
+   - [Number](https://github.com/0732sta/starter-python/number.py)
