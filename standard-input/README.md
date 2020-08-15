@@ -17,3 +17,5 @@
 ![name-age](name-age.jpg)
 
 ## 2. String Formatting
+- follow the (Steps)[###Steps] 
+- but use the new python file 'string-format.py'
