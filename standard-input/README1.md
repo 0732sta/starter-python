@@ -12,4 +12,4 @@
   5. Play around with code by remove'#hash' inside the python file
   
 ## For example :
-[name and age](circle.png)
+(circle.png)
