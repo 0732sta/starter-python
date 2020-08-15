@@ -1,5 +1,5 @@
 ### Steps :
-  1. create python file [area_calc.py](https://github.com/0732sta/starter-python/blob/master/standard-input/area_calc.py)
+  1. create python file ['area_calc.py'](https://github.com/0732sta/starter-python/blob/master/standard-input/area_calc.py)
   2. open cmd
   3. locate the folder of 'area_calc.py' file
   ```bash
