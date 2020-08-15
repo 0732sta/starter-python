@@ -8,13 +8,13 @@ Python tutorial by [@iamshaunjp](https://github.com/iamshaunjp)
 [Youtube](https://youtu.be/Ozrduu2W9B8) : Python 3 Tutorial for Beginners
 
 ## Setup
-1. install the latest version [Python 3](https://www.python.org/downloads/)
-2. Open cmd
-3. check your python version :
+- Install the latest version [Python 3](https://www.python.org/downloads/)
+- Open cmd
+- Check your python version :
 ```bash
 python -V
 ```
-4. start your python :
+- start your python :
 ```bash
 python
 ```
