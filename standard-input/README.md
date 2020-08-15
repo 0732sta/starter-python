@@ -19,3 +19,5 @@
 ## 2. String Formatting
 - Follow the [Steps](###Steps) 
 - but create and use the new python file ['string_format.py'](https://github.com/0732sta/starter-python/blob/master/standard-input/string_format.py)
+### For example :
+![string-format](str-for.png)
