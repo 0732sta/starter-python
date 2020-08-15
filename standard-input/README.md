@@ -17,5 +17,5 @@
 ![name-age](name-age.jpg)
 
 ## 2. String Formatting
-- follow the (Steps)[###Steps] 
+- follow the [Steps](###Steps) 
 - but use the new python file ['string-format.py'](https://github.com/0732sta/starter-python/blob/master/standard-input/string-format.py)
