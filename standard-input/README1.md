@@ -9,4 +9,5 @@
   ```bash
   python area_calc.py
   ```
+  5. Play around with code by remove'#hash' inside the python file
   
