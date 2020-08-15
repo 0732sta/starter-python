@@ -26,6 +26,5 @@ python
    - [String Formatting](https://github.com/0732sta/starter-python/tree/master/standard-input)
 
 ## Source
-Python tutorial by [@iamshaunjp](https://github.com/iamshaunjp)
-
-[Youtube](https://youtu.be/Ozrduu2W9B8) : Python 3 Tutorial for Beginners
+- Python tutorial by [@iamshaunjp](https://github.com/iamshaunjp)
+- [Youtube](https://youtu.be/Ozrduu2W9B8) : Python 3 Tutorial for Beginners
