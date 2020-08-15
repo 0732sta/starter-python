@@ -1,4 +1,3 @@
-## 1. Standard Input
 ### Steps :
   1. create python file 'area_calc.py'
   2. open cmd
@@ -11,7 +10,7 @@
   python area_calc.py
   ```
   5. Play around with code by remove'#hash' inside the python file
-  
+## 1. Standard Input  
 ### For example :
 ![radius-circle](calc-circle.png)
 
