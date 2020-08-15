@@ -13,4 +13,4 @@
   
 ## For example :
 ![radius-circle](circle.png)
-![name-age](name-age.png)
+![name-age](name-age.jpg)
