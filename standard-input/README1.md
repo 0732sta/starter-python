@@ -12,4 +12,4 @@
   5. Play around with code by remove'#hash' inside the python file
   
 ## For example :
-[name and age](/standard-input/calc-radius.jpg)
+[name and age](/images/calc-radius.jpg)
