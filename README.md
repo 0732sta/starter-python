@@ -1,12 +1,7 @@
 # Python 3
-* [Source](##Source)
 * [Setup](##Setup)
 * [Learn](##Learn)
-
-## Source
-Python tutorial by [@iamshaunjp](https://github.com/iamshaunjp)
-
-[Youtube](https://youtu.be/Ozrduu2W9B8) : Python 3 Tutorial for Beginners
+* [Source](##Source)
 
 ## Setup
 - Install the latest version [Python 3](https://www.python.org/downloads/)
@@ -26,3 +21,8 @@ python
    - [Strings](https://github.com/0732sta/starter-python/blob/master/strings.py)
    - [Lists](https://github.com/0732sta/starter-python/blob/master/lists.py)
    - [Dictionaries](https://github.com/0732sta/starter-python/blob/master/dictionaries.py)
+
+## Source
+Python tutorial by [@iamshaunjp](https://github.com/iamshaunjp)
+
+[Youtube](https://youtu.be/Ozrduu2W9B8) : Python 3 Tutorial for Beginners
