@@ -1,4 +1,6 @@
-## Steps :
+# Simple Input Output
+## 1.Standard Input
+### Steps :
   1. create python file 'area_calc.py'
   2. open cmd
   3. locate the folder of 'area_calc.py' file
@@ -11,7 +13,9 @@
   ```
   5. Play around with code by remove'#hash' inside the python file
   
-## For example :
+### For example :
 ![radius-circle](calc-circle.png)
 
 ![name-age](name-age.jpg)
+
+## 2.String Formatting
