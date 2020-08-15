@@ -16,4 +16,4 @@
 
 ![name-age](name-age.jpg)
 
-## 2.String Formatting
+## 2. String Formatting
