@@ -1,6 +1,6 @@
 # Python 3
 * [Source](##Source)
-* [Start](##Start)
+* [Setup](##Setup)
 
 ## Source
 Python tutorial by [@iamshaunjp](https://github.com/iamshaunjp)
@@ -9,7 +9,7 @@ Python tutorial by [@iamshaunjp](https://github.com/iamshaunjp)
 
 ## Setup
 - Install the latest version [Python 3](https://www.python.org/downloads/)
-- Open cmd
+- Open 'cmd'
 - Check your python version :
 ```bash
 python -V
