@@ -7,6 +7,7 @@
   6. [Range](#Range)
   7. [Function](#Function)
   8. [Dictionary](#Dictionary)
+  9. [Scope](#Scope)
 ### Step 
   1. create python file ['area_calc.py'](https://github.com/0732sta/starter-python/blob/master/standard-input/area_calc.py)
   2. open cmd
@@ -70,3 +71,9 @@
 - but create and use the new python file ['dictionary.py'](https://github.com/0732sta/starter-python/blob/master/standard-input/dictionary.py)
 ### For example 8 :
 ![dictionary](dictionary.png)
+
+## Scope
+- Follow the [Step](#Step) 
+- but create and use the new python file ['scope.py'](https://github.com/0732sta/starter-python/blob/master/standard-input/scope.py)
+### For example 8 :
+![scope](scope.png)
