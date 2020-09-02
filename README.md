@@ -17,10 +17,10 @@ python
 
 ## Learn
 - Types 
-   - [Number](https://github.com/0732sta/starter-python/blob/master/numbers.py)
-   - [Strings](https://github.com/0732sta/starter-python/blob/master/strings.py)
-   - [Lists](https://github.com/0732sta/starter-python/blob/master/lists.py)
-   - [Dictionaries](https://github.com/0732sta/starter-python/blob/master/dictionaries.py)
+   - [Number](https://github.com/0732sta/starter-python/blob/master/type/numbers.py)
+   - [Strings](https://github.com/0732sta/starter-python/blob/master/type/strings.py)
+   - [Lists](https://github.com/0732sta/starter-python/blob/master/type/lists.py)
+   - [Dictionaries](https://github.com/0732sta/starter-python/blob/master/type/dictionaries.py)
 - Simple input output   
    - [Standard Input](https://github.com/0732sta/starter-python/tree/master/standard-input)
    - [String Formatting](https://github.com/0732sta/starter-python/tree/master/standard-input)
