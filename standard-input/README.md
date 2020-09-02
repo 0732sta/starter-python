@@ -46,3 +46,8 @@
 ### For example :
 ![range](range.png)
 
+## 6. Function
+- Follow the [Steps](###Steps) 
+- but create and use the new python file ['function.py'](https://github.com/0732sta/starter-python/blob/master/standard-input/function.py)
+### For example :
+![function](function.png)
