@@ -33,7 +33,7 @@
 ### For example 2 :
 ![string-format](str-for.png)
 
-## If Statemnt
+## If Statement
 - Follow the [Step](#Step) 
 - but create and use the new python file ['if_elif.py'](https://github.com/0732sta/starter-python/blob/master/standard-input/if_elif.py)
 ### For example 3 :
