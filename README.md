@@ -2,7 +2,7 @@
 * [Setup](#Setup)
 * [Learn](#Learn)
 * [Source](#Source)
----
+
 ## Setup
 - Install the latest version [Python 3](https://www.python.org/downloads/)
 - Open 'cmd'
@@ -24,7 +24,7 @@ python
 - Simple input output   
    - [Standard Input](https://github.com/0732sta/starter-python/tree/master/standard-input)
    - [String Formatting](https://github.com/0732sta/starter-python/tree/master/standard-input)
----
+
 ## Source
 - Python tutorial by [@iamshaunjp](https://github.com/iamshaunjp)
 - [Youtube](https://youtu.be/Ozrduu2W9B8) : Python 3 Tutorial for Beginners
