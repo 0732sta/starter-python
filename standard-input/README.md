@@ -1,5 +1,5 @@
 ### List :
-  1. Standard Input
+  1. Standard Input 
   2. String Formatting
   3. If statement
   4. For Loop
@@ -20,13 +20,15 @@
   ```
   5. Play around with code by remove'#hash' inside the python file
 ## 1. Standard Input  
+- Follow the [Steps](#Steps :) 
+- but create and use the new python file ['area_calc.py'](https://github.com/0732sta/starter-python/blob/master/standard-input/area_calc.py)
 ### For example :
 ![radius-circle](calc-circle.png)
 
 ![name-age](name-age.jpg)
 
 ## 2. String Formatting
-- Follow the [Steps](#Steps) 
+- Follow the [Steps](#Steps :) 
 - but create and use the new python file ['string_format.py'](https://github.com/0732sta/starter-python/blob/master/standard-input/string_format.py)
 ### For example :
 ![string-format](str-for.png)
