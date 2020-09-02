@@ -39,3 +39,10 @@
 - but create and use the new python file ['while-loop.py'](https://github.com/0732sta/starter-python/blob/master/standard-input/while-loop.py)
 ### For example :
 ![even](even-while.png)
+
+## 4. Range
+- Follow the [Steps](###Steps) 
+- but create and use the new python file ['range.py'](https://github.com/0732sta/starter-python/blob/master/standard-input/range.py)
+### For example :
+![range](range.png)
+
