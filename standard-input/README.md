@@ -1,5 +1,5 @@
 ### List
-  1. [Standard Input](#Standard Input) 
+  1. [Standard Input](#Standard-Input) 
   2. String Formatting
   3. If statement
   4. For Loop
