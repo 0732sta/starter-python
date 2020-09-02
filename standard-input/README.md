@@ -44,6 +44,8 @@
 ## For Loop
 - Follow the [Step](#Step) 
 - but create and use the new python file ['loops.py'](https://github.com/0732sta/starter-python/blob/master/standard-input/loops.py)
+### For example 5 :
+![loop](loop.png)
 
 ## While Loop
 - Follow the [Step](#Step) 
