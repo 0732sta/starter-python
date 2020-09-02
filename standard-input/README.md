@@ -1,3 +1,12 @@
+### List :
+  1. Standard Input
+  2. String Formatting
+  3. If statement
+  4. For Loop
+  5. While Loop
+  6. Range
+  7. Function
+  8. Dictionary
 ### Steps :
   1. create python file ['area_calc.py'](https://github.com/0732sta/starter-python/blob/master/standard-input/area_calc.py)
   2. open cmd
@@ -34,20 +43,26 @@
 - Follow the [Steps](###Steps) 
 - but create and use the new python file ['loops.py'](https://github.com/0732sta/starter-python/blob/master/standard-input/loops.py)
 
-## 4. While Loop
+## 5. While Loop
 - Follow the [Steps](###Steps) 
 - but create and use the new python file ['while-loop.py'](https://github.com/0732sta/starter-python/blob/master/standard-input/while-loop.py)
 ### For example :
 ![even](even-while.png)
 
-## 5. Range
+## 6. Range
 - Follow the [Steps](###Steps) 
 - but create and use the new python file ['range.py'](https://github.com/0732sta/starter-python/blob/master/standard-input/range.py)
 ### For example :
 ![range](range.png)
 
-## 6. Function
+## 7. Function
 - Follow the [Steps](###Steps) 
 - but create and use the new python file ['function.py'](https://github.com/0732sta/starter-python/blob/master/standard-input/function.py)
 ### For example :
 ![function](function.png)
+
+## 8. Dictionary
+- Follow the [Steps](###Steps) 
+- but create and use the new python file ['dictionary.py'](https://github.com/0732sta/starter-python/blob/master/standard-input/dictionary.py)
+### For example :
+![dictionary](dictionary.png)
