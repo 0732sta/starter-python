@@ -22,7 +22,7 @@ python
    - [Lists](https://github.com/0732sta/starter-python/blob/master/type/lists.py)
    - [Dictionaries](https://github.com/0732sta/starter-python/blob/master/type/dictionaries.py)
 - Simple input output   
-   - [Standard Input](https://github.com/0732sta/starter-python/tree/master/standard-input)
+   - [Standard Input](https://github.com/0732sta/starter-python/tree/master/standard-input/README.md)
    - [String Formatting](https://github.com/0732sta/starter-python/tree/master/standard-input)
 
 ## Source
