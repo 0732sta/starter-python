@@ -14,7 +14,7 @@ python -V
 ```bash
 python
 ```
----
+
 ## Learn
 - Types 
    - [Number](https://github.com/0732sta/starter-python/blob/master/numbers.py)
