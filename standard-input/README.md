@@ -33,3 +33,9 @@
 ## 4. For Loop
 - Follow the [Steps](###Steps) 
 - but create and use the new python file ['loops.py'](https://github.com/0732sta/starter-python/blob/master/standard-input/loops.py)
+
+## 4. While Loop
+- Follow the [Steps](###Steps) 
+- but create and use the new python file ['while-loop.py'](https://github.com/0732sta/starter-python/blob/master/standard-input/while-loop.py)
+### For example :
+![even](even-while.png)
