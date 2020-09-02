@@ -29,3 +29,11 @@
 ![ask-age](ask-age.png)
 
 ![yes](y-n.png)
+
+## 4. For Loop
+- Follow the [Steps](###Steps) 
+- but create and use the new python file ['loops.py'](https://github.com/0732sta/starter-python/blob/master/standard-input/loops.py)
+### For example :
+![index](loop2.png)
+
+![break](loop3.png)
