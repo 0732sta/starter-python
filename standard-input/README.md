@@ -97,4 +97,4 @@ Before put **set** | After put **set**
 ### For example 11 :
 file [classes1.py](https://github.com/0732sta/starter-python/blob/master/standard-input/classes1.py) | file [classesm.py](https://github.com/0732sta/starter-python/blob/master/standard-input/classesm.py)
 ------------ | -------------
-![classes](classes.png) | ![classes-m](classes-m.png)
+![classes](classes.png) | ![classesm](classesm.png)
