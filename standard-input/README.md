@@ -85,7 +85,6 @@
 - but create and use the new python file [dictionary1.py](https://github.com/0732sta/starter-python/blob/master/standard-input/dictionary1.py)
 - Also, simple implement function **set** and **sorted** go to file [sorting-set.py](https://github.com/0732sta/starter-python/blob/master/type/sorting-set.py)
 ### For example 10 :
-
 Before put **set** | After put **set**
 ------------ | -------------
 ![befpre](bfr-sort.png) | ![After](after-set.png)
@@ -95,3 +94,4 @@ Before put **set** | After put **set**
 - but create and use the new python file [classes.py](https://github.com/0732sta/starter-python/blob/master/standard-input/classes.py)
 - Also, to learn more about class with **init fuction** do open [classes1.py](https://github.com/0732sta/starter-python/blob/master/standard-input/classes1.py)
 ### For example 11 :
+![classes](classes.png)
