@@ -82,7 +82,7 @@
 ## Set
 - Follow the [Step](#Step) 
 - but create and use the new python file [dictionary1.py](https://github.com/0732sta/starter-python/blob/master/standard-input/dictionary1.py)
-- Also, simple implement function 'set' and 'sorted' go to file [sorting-set.py](https://github.com/0732sta/starter-python/blob/master/type/sorting-set.py)
+- Also, simple implement function **set** and **sorted** go to file [sorting-set.py](https://github.com/0732sta/starter-python/blob/master/type/sorting-set.py)
 ### For example 10 :
 
 Before put **set** | After put **set**
