@@ -87,5 +87,4 @@
 
 Before put **set** | After put **set**
 ------------ | -------------
-![befpre](bfr-sort.png) | 
-![After](after-set.png)
+![befpre](bfr-sort.png) | ![After](after-set.png)
