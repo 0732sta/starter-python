@@ -9,6 +9,7 @@
   8. [Dictionary](#Dictionary)
   9. [Scope](#Scope)
   10. [Set](#Set)
+  11. [Class](#Class)
 ### Step 
   1. create python file [area_calc.py](https://github.com/0732sta/starter-python/blob/master/standard-input/area_calc.py)
   2. open cmd
@@ -88,3 +89,9 @@
 Before put **set** | After put **set**
 ------------ | -------------
 ![befpre](bfr-sort.png) | ![After](after-set.png)
+
+## Class
+- Follow the [Step](#Step) 
+- but create and use the new python file [classes.py](https://github.com/0732sta/starter-python/blob/master/standard-input/classes.py)
+- Also, to learn more about class with **init fuction** do open [classes1.py](https://github.com/0732sta/starter-python/blob/master/standard-input/classes1.py)
+### For example 11 :
