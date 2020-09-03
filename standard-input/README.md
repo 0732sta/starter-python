@@ -93,8 +93,8 @@ Before put **set** | After put **set**
 - Follow the [Step](#Step) 
 - but create and use the new python file [classes.py](https://github.com/0732sta/starter-python/blob/master/standard-input/classes.py)
 - Also, to learn more about class with **init fuction** do open [classes1.py](https://github.com/0732sta/starter-python/blob/master/standard-input/classes1.py)
-- implement class and static **method** 
+- implement *class* and *static* **method** 
 ### For example 11 :
-[classes1.py](https://github.com/0732sta/starter-python/blob/master/standard-input/classes1.py) | [classesm.py](https://github.com/0732sta/starter-python/blob/master/standard-input/classesm.py)
+file [classes1.py](https://github.com/0732sta/starter-python/blob/master/standard-input/classes1.py) | file [classesm.py](https://github.com/0732sta/starter-python/blob/master/standard-input/classesm.py)
 ------------ | -------------
 ![classes](classes.png) | ![classes-m](classes-m.png)
