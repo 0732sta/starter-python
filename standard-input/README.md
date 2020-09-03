@@ -85,7 +85,9 @@
 - Also, simple implement function 'set' and 'sorted' go to file [sorting-set.py](https://github.com/0732sta/starter-python/blob/master/type/sorting-set.py)
 ### For example 10 :
 Before put **set** 
+
 ![befpre](bfr-sort.png)
 
 After put **set**
+
 ![After](after-set.png)
