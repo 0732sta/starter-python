@@ -10,7 +10,7 @@
   9. [Scope](#Scope)
   10. [Set](#Set)
   11. [Class](#Class)
-  12. [Modules & Packages](#Modules-&-Packages)
+  12. [Modules&Packages](#Modules&Packages)
 ### Step 
   1. create python file [area_calc.py](https://github.com/0732sta/starter-python/blob/master/standard-input/area_calc.py)
   2. open cmd
