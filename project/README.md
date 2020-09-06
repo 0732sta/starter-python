@@ -4,7 +4,7 @@
 ```bash
 python
 ```
-- import class Tab in bar_tab.py 
+- import class Tab in [bar_tab.py](https://github.com/0732sta/starter-python/blob/master/project/bar_tab.py) 
 ```bash
 from bar_tab import Tab
 ```
