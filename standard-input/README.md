@@ -10,7 +10,7 @@
   9. [Scope](#Scope)
   10. [Set](#Set)
   11. [Class](#Class)
-  12. [Modules & Packages](#Modules-!&-Packages)
+  12. [Modules & Packages](#Modules-&-Packages)
 ### Step 
   1. create python file [area_calc.py](https://github.com/0732sta/starter-python/blob/master/standard-input/area_calc.py)
   2. open cmd
@@ -102,7 +102,7 @@ output [classes1.py](https://github.com/0732sta/starter-python/blob/master/stand
 
 ## Modules & Packages
 - create new folder **space** inside your python folder that you create previously
-- create 3 file inside **space** folder which is [__init__.py](),[calc.py](),[planet.py]()
+- create 3 file inside **space** folder which is [init.py]() , [calc.py]() , [planet.py]()
 - Then, to import package from space folder, we need to create file [classes-s.py]() outside of **space** folder 
 ### For example 12 :
 ![scape](scape.png)
