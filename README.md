@@ -26,7 +26,7 @@ python
    - [Standard Input](https://github.com/0732sta/starter-python/tree/master/standard-input/README.md)
 
 ## Project
-1. [Bar Tab Calculator](https://github.com/0732sta/starter-python/blob/master/project/bar_tab.py)
+1. [Bar Tab Calculator](https://github.com/0732sta/starter-python/blob/master/project/)
   
 ## Source
 - Python tutorial by [@iamshaunjp](https://github.com/iamshaunjp)
