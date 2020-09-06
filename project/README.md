@@ -22,5 +22,6 @@ table1.add('chicken')
 table1.add('desert')
 table1.print_bill(10,10)
 ```
-- the output
+- the output :
+
 ![tol-menu](menu.png)
