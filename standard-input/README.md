@@ -102,7 +102,7 @@ output [classes1.py](https://github.com/0732sta/starter-python/blob/master/stand
 
 ## Modules & Packages
 - create new folder **space** inside your python folder that you create previously
-- create 3 file inside **space** folder which is [init.py]() , [calc.py]() , [planet.py]()
-- Then, to import package from space folder, we need to create file [classes-s.py]() outside of **space** folder 
+- fill up your folder [space](https://github.com/0732sta/starter-python/tree/master/space) with three python file
+- Then, to import package from space folder, we need to create file [class-space.py](https://github.com/0732sta/starter-python/blob/master/class-space.py) outside of **space** folder 
 ### For example 12 :
-![scape](scape.png)
+![space](space.png)
