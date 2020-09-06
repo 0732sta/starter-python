@@ -99,3 +99,10 @@ Before put **set** | After put **set**
 output [classes1.py](https://github.com/0732sta/starter-python/blob/master/standard-input/classes1.py) | output [classesm.py](https://github.com/0732sta/starter-python/blob/master/standard-input/classesm.py)
 ------------ | -------------
 ![classes](classes.png) | ![classesm](classesm.png)
+
+## Modules & Packages
+- create new folder **space** inside your python folder that you create previously
+- create 3 file inside **space** folder which is [__init__.py](),[calc.py](),[planet.py]()
+- Then, to import package from space folder, we need to create file [classes-s.py]() outside of **space** folder 
+### For example 12 :
+![scape](scape.png)
