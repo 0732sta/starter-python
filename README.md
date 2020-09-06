@@ -1,6 +1,7 @@
 # Python 3
 * [Setup](#Setup)
 * [Learn](#Learn)
+* [Project](#Project)
 * [Source](#Source)
 
 ## Setup
@@ -24,6 +25,9 @@ python
 - Simple input output   
    - [Standard Input](https://github.com/0732sta/starter-python/tree/master/standard-input/README.md)
 
+## Project
+1. [Bar Tab Calculator](https://github.com/0732sta/starter-python/blob/master/project/bar_tab.py)
+  
 ## Source
 - Python tutorial by [@iamshaunjp](https://github.com/iamshaunjp)
 - [Youtube](https://youtu.be/Ozrduu2W9B8) : Python 3 Tutorial for Beginners
