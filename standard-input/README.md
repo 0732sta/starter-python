@@ -100,7 +100,7 @@ output [classes1.py](https://github.com/0732sta/starter-python/blob/master/stand
 ------------ | -------------
 ![classes](classes.png) | ![classesm](classesm.png)
 
-## Modules & Packages
+## Modules and Packages
 - create new folder **space** inside your python folder that you create previously
 - fill up your folder [space](https://github.com/0732sta/starter-python/tree/master/space) with three python file
 - Then, to import package from space folder, we need to create file [class-space.py](https://github.com/0732sta/starter-python/blob/master/class-space.py) outside of **space** folder 
