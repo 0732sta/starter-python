@@ -1,4 +1,4 @@
-from Tab:
+class Tab:
 
     menu = {
         'tembikai':5,
@@ -29,4 +29,4 @@ from Tab:
         
     #2f for 2 decimal places
     #:20 is 20 char, to make it print bill looks neat
-        print(f'{Total":20} RM{total:2f}')
+        print(f'{"Total":20} RM{total:2f}')
