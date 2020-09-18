@@ -11,6 +11,8 @@
   10. [Set](#Set)
   11. [Class](#Class)
   12. [Modules and Packages](#Modules-and-Packages)
+  13. [Comprehension](#Comprehension)
+  14. [Decoretor](#Decoretor)
 ### Step 
   1. create python file [area_calc.py](https://github.com/0732sta/starter-python/blob/master/standard-input/area_calc.py)
   2. open cmd
@@ -66,6 +68,19 @@
 ## Function
 - Follow the [Step](#Step) 
 - but create and use the new python file [function.py](https://github.com/0732sta/starter-python/blob/master/standard-input/function.py)
+### Other Functions :
+  1. Maps
+    - [maps.py](https://github.com/0732sta/starter-python/blob/master/standard-input/maps.py)
+    - example
+      ![map](map.png)
+  2. Filter
+    - [filter.py](https://github.com/0732sta/starter-python/blob/master/standard-input/filter.py)
+    - example
+      ![filter](filter.png)
+  3. Lambda
+    - [lambda.py](https://github.com/0732sta/starter-python/blob/master/standard-input/lambda.py)
+    - example
+      ![lambda](lambda.png)
 ### For example 7 :
 ![function](function.png)
 
@@ -106,3 +121,15 @@ output [classes1.py](https://github.com/0732sta/starter-python/blob/master/stand
 - Then, to import package from space folder, we need to create file [class-space.py](https://github.com/0732sta/starter-python/blob/master/class-space.py) outside of **space** folder 
 ### For example 12 :
 ![space](space.png)
+
+## Comprehension
+- Follow the [Step](#Step) 
+- but create and use the new python file [comprehension.py](https://github.com/0732sta/starter-python/blob/master/standard-input/Comprehension.py)
+### For example 9 :
+![comp](comp.png)
+
+## Decoretor
+- Follow the [Step](#Step) 
+- but create and use the new python file [decoretor.py](https://github.com/0732sta/starter-python/blob/master/standard-input/decoretor.py)
+### For example 9 :
+![decoretor](decoretor.png)
