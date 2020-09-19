@@ -24,6 +24,9 @@ python
    - [Dictionaries](https://github.com/0732sta/starter-python/blob/master/type/dictionaries.py)
 - Simple input output   
    - [Standard Input](https://github.com/0732sta/starter-python/tree/master/standard-input/README.md)
+- File
+   - Open and Read
+   - Open and Write
 
 ## Project
 1. [Bar Tab Calculator](https://github.com/0732sta/starter-python/blob/master/project/)
