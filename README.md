@@ -31,6 +31,7 @@ python
 ## Project
 1. [Bar Tab Calculator](https://github.com/0732sta/starter-python/blob/master/project/)
 2. [Dowload image from URL](https://github.com/0732sta/starter-python/blob/master/project/)
+3. [Themed Lorem Ipsum Generator](https://github.com/0732sta/starter-python/blob/master/project/)
   
 ## Source
 - Python tutorial by [@iamshaunjp](https://github.com/iamshaunjp)
