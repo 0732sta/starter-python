@@ -26,7 +26,7 @@ table1.add('chicken')
 table1.add('desert')
 table1.print_bill(10,10)
 ```
-- the output :
+- **the output :**
 
 ![tol-menu](menu.png)
 
@@ -43,7 +43,7 @@ cd 'yourfolder'
 ```bash
 python ipsum_gen.py
 ```
-- the output shows in [stud_ipsum.txt](https://github.com/0732sta/starter-python/blob/master/project/stud_ipsum.txt) file
+- **the output :** shows in [stud_ipsum.txt](https://github.com/0732sta/starter-python/blob/master/project/stud_ipsum.txt) file
 
 ### Dowload image from URL
 - create python file[dl_img.py](https://github.com/0732sta/starter-python/blob/master/project/dl_img.py)
@@ -56,7 +56,7 @@ cd 'yourfolder'
 ```bash
 python dl_img.py
 ```
-**For Example**
+- **the output :**
 - copy this link to dowload the image as example : https://pbs.twimg.com/media/EiVsKzJUMAAtAnc?format=jpg&name=medium
 - ![dl](dl.png) 
 - ![cat](cat.png) 
