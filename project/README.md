@@ -35,13 +35,13 @@ table1.print_bill(10,10)
 - create reading file ipsum.txt and copy all the words
 - create writing file stud_ipsum.txt for show the output 
 - open cmd
-- locate the folder of area_calc.py file
+- locate the folder of ipsum_gen.py file
 ```bash
 cd 'yourfolder'
 ```
-- Then, you can see the output from the input that you wrote in area_calc.py
+- Then, you can see the output from the input that you wrote in ipsum_gen.py
 ```bash
-python area_calc.py
+python ipsum_gen.py
 ```
 - the output shows in [stud_ipsum.txt](https://github.com/0732sta/starter-python/blob/master/project/stud_ipsum.txt) file
 
