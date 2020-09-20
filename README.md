@@ -6,6 +6,7 @@
 
 ## Setup
 - Install the latest version [Python 3](https://www.python.org/downloads/)
+- Write your code in *Visual Studio Code* or *Atom*
 - Open 'cmd'
 - Check your python version :
 ```bash
