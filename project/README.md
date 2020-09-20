@@ -30,4 +30,20 @@ table1.print_bill(10,10)
 
 ![tol-menu](menu.png)
 
+### Themed Lorem Ipsum Generator
+- create python file [ipsum_gen.py]https://github.com/0732sta/starter-python/blob/master/project/ipsum_gen.py
+- create reading file ipsum.txt and copy all the words
+- create writing file stud_ipsum.txt for show the output 
+- open cmd
+- locate the folder of area_calc.py file
+```bash
+cd 'yourfolder'
+```
+- Then, you can see the output from the input that you wrote in area_calc.py
+```bash
+python area_calc.py
+```
+- the output shows in [stud_ipsum.txt](https://github.com/0732sta/starter-python/blob/master/project/stud_ipsum.txt) file
+
 ### Dowload image from URL
+- 
