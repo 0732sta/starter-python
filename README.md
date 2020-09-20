@@ -25,8 +25,8 @@ python
 - Simple input output   
    - [Standard Input](https://github.com/0732sta/starter-python/tree/master/standard-input/README.md)
 - File
-   - Open and Read(https://github.com/0732sta/starter-python/blob/master/file/)
-   - Open and Write(https://github.com/0732sta/starter-python/blob/master/file/)
+   - [Open and Read](https://github.com/0732sta/starter-python/blob/master/file/)
+   - [Open and Write](https://github.com/0732sta/starter-python/blob/master/file/)
 
 ## Project
 1. [Bar Tab Calculator](https://github.com/0732sta/starter-python/blob/master/project/)
