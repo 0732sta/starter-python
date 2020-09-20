@@ -46,4 +46,16 @@ python ipsum_gen.py
 - the output shows in [stud_ipsum.txt](https://github.com/0732sta/starter-python/blob/master/project/stud_ipsum.txt) file
 
 ### Dowload image from URL
-- 
+- create python file[dl_img.py](https://github.com/0732sta/starter-python/blob/master/project/dl_img.py)
+- then, create new folder *image* to store the image dowloaded
+- locate the folder of dl_img.py file
+```bash
+cd 'yourfolder'
+```
+- Then, you can see the output from the input that you wrote in dl_img.py
+```bash
+python dl_img.py
+```
+**For Example**
+- copy this link to dowload the image as example : https://pbs.twimg.com/media/EiVsKzJUMAAtAnc?format=jpg&name=medium
+- ![dl](dl.png) 
