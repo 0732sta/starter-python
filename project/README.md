@@ -57,6 +57,6 @@ cd 'yourfolder'
 python dl_img.py
 ```
 - **the output :**
-- copy this link to dowload the image as example : https://pbs.twimg.com/media/EiVsKzJUMAAtAnc?format=jpg&name=medium
-- ![dl](dl.png) 
-- ![cat](cat.png) 
+  - copy this link to dowload the image as example : https://pbs.twimg.com/media/EiVsKzJUMAAtAnc?format=jpg&name=medium
+  - ![dl](dl.png) 
+  - ![cat](cat.png) 
