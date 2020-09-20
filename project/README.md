@@ -1,7 +1,7 @@
 ## Project
-1. Bar Tab Calculator
-2. Themed Lorem Ipsum Generator
-3. Dowload image from URL 
+1. [Bar Tab Calculator](#Bar_Tab_Calculator)
+2. [Themed Lorem Ipsum Generator](#Themed_Lorem_Ipsum_Generator)
+3. [Dowload image from URL](#Dowload_image_from_URL)
 
 ### Bar Tab Calculator
 - locate **project** folder
