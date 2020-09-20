@@ -20,7 +20,7 @@
   ```bash
   cd 'yourfolder'
   ```
-  4. Then, you can see the output from the input that you wrote in area_calc.py
+  4. Then, you can see the output from the code that you wrote in area_calc.py
   ```bash
   python area_calc.py
   ```
