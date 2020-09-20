@@ -1,7 +1,7 @@
 # Python 3
 * [Setup](#Setup)
 * [Learn](#Learn)
-* [Project](#Project)
+* [Projects](#Projects)
 * [Source](#Source)
 
 ## Setup
@@ -24,11 +24,11 @@ python
    - [Dictionaries](https://github.com/0732sta/starter-python/blob/master/type/dictionaries.py)
 - Simple input output   
    - [Standard Input](https://github.com/0732sta/starter-python/tree/master/standard-input/README.md)
-- File
+- Files
    - [Read](https://github.com/0732sta/starter-python/blob/master/file/)
    - [Write](https://github.com/0732sta/starter-python/blob/master/file/)
 
-## Project
+## Projects
 1. [Bar Tab Calculator](https://github.com/0732sta/starter-python/blob/master/project/)
 2. [Dowload image from URL](https://github.com/0732sta/starter-python/blob/master/project/)
 3. [Themed Lorem Ipsum Generator](https://github.com/0732sta/starter-python/blob/master/project/)
