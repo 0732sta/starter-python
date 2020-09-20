@@ -1,4 +1,4 @@
-## Project
+## Files
 1. [Reading File](#Reading-File)
 2. [Writing File](#Writing-File)
 
