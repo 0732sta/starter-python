@@ -12,11 +12,12 @@ Reading file is reading from text file that developer create with words or numbe
 ```bash
 cd 'yourfolder'
 ```
-- Then, you can see the output from the input that you wrote in readDNA.py
+- Then, you can see the output from the code that you wrote in readDNA.py
 ```bash
 python readDNA.py
 ```
 - **the output** : shows the dna code 
+
 ![readdna](readdna.png) 
 
 #### Example 2
@@ -27,11 +28,12 @@ python readDNA.py
 ```bash
 cd 'yourfolder'
 ```
-- Then, you can see the output from the input that you wrote in read.py
+- Then, you can see the output from the code that you wrote in read.py
 ```bash
 python read.py
 ```
 - **the output** : 
+
 ![read1](read1.png) 
 
 #### Example 3
@@ -42,7 +44,7 @@ python read.py
 ```bash
 cd 'yourfolder'
 ```
-- Then, you can see the output from the input that you wrote in reads.py
+- Then, you can see the output from the code that you wrote in reads.py
 ```bash
 python reads.py
 ```
@@ -59,7 +61,7 @@ Writing file is write words or numbers in python file then, in text file will au
 ```bash
 cd 'yourfolder'
 ```
-- Then, you can see the output from the input that you wrote in write.py
+- Then, you can see the output from the code that you wrote in write.py
 ```bash
 python write.py
 ```
