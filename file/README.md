@@ -22,7 +22,7 @@ Reading file is reading from text file that developer create with words or numbe
 ## Writing File
 Writing file is write words or numbers in python file then, in text file will auto fill up words or number
 ### Example 1
-create python file [write.py](https://github.com/0732sta/starter-python/blob/master/file/write.py)
-create writing file write.txt for show the output
+- create python file [write.py](https://github.com/0732sta/starter-python/blob/master/file/write.py)
+- create writing file write.txt for show the output
 - **the output** :  
 [write.txt](https://github.com/0732sta/starter-python/blob/master/file/write.txt) 
