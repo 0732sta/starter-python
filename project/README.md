@@ -39,7 +39,7 @@ table1.print_bill(10,10)
 ```bash
 cd 'yourfolder'
 ```
-- Then, you can see the output from the input that you wrote in ipsum_gen.py
+- Then, you can see the output from the code that you wrote in ipsum_gen.py
 ```bash
 python ipsum_gen.py
 ```
@@ -52,7 +52,7 @@ python ipsum_gen.py
 ```bash
 cd 'yourfolder'
 ```
-- Then, you can see the output from the input that you wrote in dl_img.py
+- Then, you can see the output from the code that you wrote in dl_img.py
 ```bash
 python dl_img.py
 ```
