@@ -1,5 +1,6 @@
 # File
-## Reading File
+## Reading File 
+Reading file is reading from text file that developer create with words or numbers
 ### Example 1
 - create python file [readDNA.py](https://github.com/0732sta/starter-python/blob/master/file/readDNA.py)
 - create reading text file [dna_sequence.txt](https://github.com/0732sta/starter-python/blob/master/file/dna_sequence.txt) and copy all the words
@@ -19,3 +20,9 @@
 ![read2](read2.png) 
 
 ## Writing File
+Writing file is write words or numbers in python file then, in text file will auto fill up words or number
+### Example 1
+create python file [write.py](https://github.com/0732sta/starter-python/blob/master/file/write.py)
+create writing file write.txt for show the output
+- **the output** :  
+[write.txt](https://github.com/0732sta/starter-python/blob/master/file/write.txt) 
