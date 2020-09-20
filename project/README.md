@@ -1,4 +1,4 @@
-## Project
+## Projects
 1. [Bar Tab Calculator](#Bar-Tab-Calculator)
 2. [Themed Lorem Ipsum Generator](#Themed-Lorem-Ipsum-Generator)
 3. [Dowload image from URL](#Dowload-image-from-URL)
