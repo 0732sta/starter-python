@@ -1,4 +1,8 @@
 ## Project
+1. Bar Tab Calculator
+2. Themed Lorem Ipsum Generator
+3. Dowload image from URL 
+
 ### Bar Tab Calculator
 - locate **project** folder
 ```bash
