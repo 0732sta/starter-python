@@ -25,3 +25,5 @@ table1.print_bill(10,10)
 - the output :
 
 ![tol-menu](menu.png)
+
+### Dowload image from URL
